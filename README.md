@@ -1,9 +1,9 @@
 # ResoniteChatBox
 
-This is a Work in Progress mod for Resonite which is an Australian translator and an alternative mute helper. This is to solve the delay for messages when desynced by using valueStreams to send the text, Doing this makes the messages continue to work like how voices and body tracking are still correct whilst everything else is desynced.
+This is a Work in Progress mod for Resonite. This mod is an Australian translator and an alternative mute helper. This is to solve the delay for messages when desynced by using valueStreams to send the text, Doing this makes the messages continue to work like how voices and body tracking are still correct whilst everything else is desynced.
 
 ## Work in progress
-it seems strings can't be sent as value stream instead but instead, I must use many chars which is making things slightly more complicated. This is just something pre-release I am working on and if anyone has any better ideas then go ahead and take the code.
+it seems strings can't be sent as value stream instead but instead, I must use many chars which is making things slightly more complicated. This is just something pre-release I am working on and if anyone has any better ideas then go ahead and take over.
 
 I also want to add a context menu into the root as an accessibility feature to solve the problem of not being able to communicate without an avatar like the vrc chatbox or cvr chatbox mod.
 
